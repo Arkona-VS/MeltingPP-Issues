@@ -40,7 +40,7 @@ body:
       description: Explain the issue you're running into.
       placeholder: Explain it here.
     validations:
-      required: false
+      required: true
   - type: textarea
     id: reproduce
     attributes:
