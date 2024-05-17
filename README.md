@@ -1,2 +1,2 @@
 # MeltingPP-Issues
-Melting Plus Plus issue tracker for reporting bugs, crashes and the like other
+Melting Plus Plus [issue tracker](https://github.com/Arkona-VS/MeltingPP-Issues/issues) for reporting bugs, crashes and the like other
